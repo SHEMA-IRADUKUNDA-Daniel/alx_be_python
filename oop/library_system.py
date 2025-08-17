@@ -34,4 +34,4 @@ class Library:
         else:
             print("Library contains:")
             for book in self.books:
-                print(" -", book)
+                print(book)
